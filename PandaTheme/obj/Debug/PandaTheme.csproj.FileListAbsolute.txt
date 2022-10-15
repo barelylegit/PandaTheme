@@ -1,0 +1,13 @@
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\bin\Debug\PandaTheme.pkgdef
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\bin\Debug\PandaTheme.vsix
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\bin\Debug\extension.vsixmanifest
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.csproj.AssemblyReference.cache
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\_EmptyResource.resources
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.csproj.GenerateResource.cache
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.csproj.CoreCompileInputs.cache
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.dll
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\PandaTheme.pdb
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\extension.vsixmanifest
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\files.json
+C:\Users\connor.garriss\source\repos\PandaTheme\PandaTheme\obj\Debug\createTemplateManifests.cache
